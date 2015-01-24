@@ -18,7 +18,7 @@ var decHex = function(number){
 * @return number
 */
 var ord = function (string) {
-	return string.charCodeAt(0);
+    return string.charCodeAt(0);
 };
 
 
